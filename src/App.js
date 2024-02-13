@@ -28,7 +28,7 @@ export default function App() {
           <h2>{selectedLanguage}</h2>
           <p>
             {selectedLanguage === 'HTML' &&
-              'The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.'}
+              'The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web .'}
             {selectedLanguage === 'CSS' &&
               'Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.'}
             {selectedLanguage === 'JavaScript' &&
